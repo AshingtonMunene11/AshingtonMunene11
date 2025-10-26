@@ -1,6 +1,6 @@
-## Hi there 👋
+## Jambo👋
 
-I am Ashington, a software engineering student.
+I am Ashington, a scholar of software engineering.
 
 
 
