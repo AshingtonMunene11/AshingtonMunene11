@@ -5,7 +5,6 @@ I am Ashington, a software engineering student.
 
 
 If the implementation is hard to explain, it's a bad idea.
-
 If the implementation is easy to explain, it may be a good idea.
 
 If it compiles, it's poetry. If it doesn't, it's a Monday.
