@@ -1,6 +1,6 @@
 ## Jambo👋
 
-I am Ashington, a scholar of software engineering.
+I am Ashington, a software engineer.
 
 **If the implementation is hard to explain, it's a bad idea.**  
 **If the implementation is easy to explain, it may be a good idea.**  
