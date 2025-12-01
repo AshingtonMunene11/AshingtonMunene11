@@ -1,5 +1,6 @@
-## Jambo👋
-I`m Frank, I engineer stuff.
+## Jambo!👋
+
+**I`m Ash, I engineer stuff.**
 **"If it compiles, it's poetry. If it doesn't, it's a Monday..."**
 
 
