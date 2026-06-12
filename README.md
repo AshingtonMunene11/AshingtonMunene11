@@ -7,4 +7,4 @@
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 ---
 ### [Frank Ashington Munene](https://www.linkedin.com/in/munenefrank/) 
-2026 :copyright:
+:copyright:2026 
